@@ -9,6 +9,11 @@
       "nombre": "Pedro",
       "email": "pedro@alura.com",
       "id": "b007442c-8aad-456b-b6a1-4fee1562eb84"
+    },
+    {
+      "nombre": "manchita",
+      "email": "manchita@correo.com",
+      "id": "08e9bfe3-0d49-4c5e-a67a-91dc5675e908"
     }
   ]
 }
